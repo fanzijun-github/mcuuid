@@ -1,0 +1,1 @@
+# Core modules for Minecraft UUID Scanner
